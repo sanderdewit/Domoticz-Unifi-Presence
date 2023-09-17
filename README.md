@@ -59,7 +59,7 @@ To install the plugin login to the Raspberry Pi (SSH / Putty).
   
         cd /home/<username>/domoticz/plugin
   
-        git clone https://github.com/Wizzard72/Domoticz-Unifi-Presence
+        git clone https://github.com/sanderdewit/Domoticz-Unifi-Presence
       
         sudo systemctl restart domoticz.service
 
