@@ -210,7 +210,7 @@ class BasePlugin:
         #self._login_data['password'] = Parameters["Password"]
         #self._login_data['remember'] = True
         #self._site = Parameters["Mode1"]
-        #self._verify_ssl = False
+        self._verify_ssl = False
         #self._baseurl = 'https://'+Parameters["Address"]+':'+Parameters["Port"]
         #self._session = Session()
 
